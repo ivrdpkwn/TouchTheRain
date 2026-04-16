@@ -46,8 +46,7 @@
 ---
 
 ## 📸 项目截图
-
-
+![运行效果](image/TouchTheRain.png)
 
 ---
 
